@@ -1,0 +1,9 @@
+#ifndef __test_func__
+#define __test_func__
+
+void test_func(vector p)
+{
+	p.x += 1;
+}
+
+#endif // __test_func__
